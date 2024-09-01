@@ -54,8 +54,7 @@ To set up and run the project on your local machine, follow these steps:
 1. **Clone the Repository:**
 
    ```bash
-   git clone <repository_url>
-   cd <repository_name>
+   git clone https://github.com/CH-Sampath/digitization-and-analysis-of-marks
    ```
 
 2. **Install Dependencies:** Ensure Python 3 is installed on your system. Then, install the necessary Python packages by running:
