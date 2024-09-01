@@ -42,7 +42,7 @@ The primary objective of this project is to automate the process of converting m
 
 All project files are located in the home directory. Below is an overview of the key files:
 
-- **app.bat:** The main executable file that initiates the entire process.
+- **app.bat:** The main executable file that initiates the entire process. Replace the paths in accordance to your system
 - **requirements.txt:** Lists all dependencies required to run the project.
 - **Python Source Files:** Contain the source code for digit recognition, data processing, GUI implementation, and data encryption.
 - **Excel Data Files:** Store input scanned images and the output of the digit recognition and analysis processes.
